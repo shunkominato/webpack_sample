@@ -5,6 +5,10 @@
   "repository": "git@github.com:shunkominato/webpack_sample.git",
   "author": "shunkominato <shun19871001@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode development",
+    "build:prd": "webpack --mode production"
+  },
   "devDependencies": {
     "webpack": "^5.53.0",
     "webpack-cli": "^4.8.0"
