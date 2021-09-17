@@ -1,0 +1,8 @@
+{
+  "name": "webpack_sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shunkominato/webpack_sample.git",
+  "author": "shunkominato <shun19871001@gmail.com>",
+  "license": "MIT"
+}
